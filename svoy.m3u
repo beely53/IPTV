@@ -1,0 +1,134 @@
+﻿#EXTM3U
+#EXTINF:-1,Рудана
+http://134.249.128.243/hls/stream_FHD.m3u8
+#EXTINF:-1,Рудана
+https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1,1й Кривий Ріг
+https://cdn1.live-tv.od.ua:8083/1tvkr/1tvkr-abr-lq/1tvkr/1tvkr-sub/chunks.m3u8
+#EXTINF:-1,Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1,Прямий
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1,Прямий
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,112 Украина
+http://89.160.216.5:8081/online/112_ua_hd/manifest.mpd
+#EXTINF:-1,112 Украина
+http://95.67.12.67/hls/112hd-letter/index.m3u8
+#EXTINF:-1,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1,Eurosport 1
+https://185-8-178-140.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1,Eurosport 2
+http://217.21.34.158:30000/Eurosport2/index.m3u8
+#EXTINF:-1,Eurosport 2
+https://185-8-178-138.livesports24.online/ruseurosport2.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://91.231.219.145:80/tv_eurosport_2_HD/video.m3u8
+#EXTINF:-1,Eurosport1
+http://77.245.98.22:8000/play/307/index.m3u8
+#EXTINF:-1,M1
+http://217.21.34.158:30000/M1/index.m3u8
+#EXTINF:-1,M2
+http://217.21.34.158:30000/M2/index.m3u8
+#EXTINF:-1,Setanta Sport
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:-1,Setanta Sport Plus
+http://stream.euroasia.lfstrm.tv/setanta_sport_plus/1/index.m3u8
+#EXTINF:-1,Setanta Sport Plus
+http://ott-cdn.ucom.am/s82/index.m3u8
+#EXTINF:-1,Setanta Sport Plus HD
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,Setanta Sports HD
+http://77.245.98.22:8000/play/401/tracks-v1a1/index.m3u8
+#EXTINF:-1,UA:ПЕРШИЙ
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1,UA:Перший
+http://78.26.128.52:9999
+#EXTINF:-1,Ukraina
+http://193.93.216.50:8000/play/Ukraina/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
+#EXTINF:-1,Viasat Sport HD
+http://live-hls-viasat.cdnvideo.ru/viasat/Sport_HD.smil/d79c72a5ba8ca08f435d1ae4d88a5c5e--viasat--Sport_HD_1080--chunklist.m3u8
+#EXTINF:-1,Беларусь 5
+http://95.46.208.76:9898/belarus5
+#EXTINF:-1,ВИДЕОСАЛОН VHS
+#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/151157.m3u8
+#EXTINF:-1,Видеосалон VHS
+http://51.254.59.155/hls/vhstv.m3u8
+#EXTINF:-1,Вкусное ТВ
+#EXTINF:-1,Еда
+http://stream.euroasia.lfstrm.tv/eda/1/index.m3u8
+#EXTINF:-1,Еда Премиум
+http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
+#EXTINF:-1,ИНТЕР
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1,ИНТЕР
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1,Интер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,М1
+http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1,М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,МАТЧ!
+http://176.114.16.54:80/match/index.m3u8
+#EXTINF:-1,Матч!
+https://video-4-306.rutube.ru/stream/10113616/11bbbec75a2ceb8cf446ad16813c6eec/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Матч! HD
+http://217.21.34.158:30000/MatchHD/index.m3u8
+#EXTINF:-1,Матч! Боец
+http://stream.euroasia.lfstrm.tv/boets/1/index.m3u8
+#EXTINF:-1,Матч! Премьер
+http://185-8-178-140.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1,Матч! Премьер
+https://sblive.online/lba/123/g1/mpremier.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://185-8-178-140.livesports24.online/matchfoot1.m3u8
+#EXTINF:-1,Матч! Футбол 1
+https://185-8-178-140.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://185-8-178-140.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1,Матч! Футбол 2
+https://185-8-178-140.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://185-8-178-140.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1,Матч! Футбол 3
+https://185-8-178-140.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1,Матч!Футбол 1 HD
+http://185.112.140.3:8005/play/a00i/index.m3u8
+#EXTINF:-1,Наше кино
+http://stream.euroasia.lfstrm.tv/nashe_kino/1/index.m3u8
+#EXTINF:-1,Ретро
+http://217.21.34.158:30000/Retro/index.m3u8
+#EXTINF:-1,Ретро
+http://stream.euroasia.lfstrm.tv/retro/1/index.m3u8
+#EXTINF:-1,Ретро
+http://31.184.192.35:12004
+#EXTINF:-1,Родное кино
+http://217.21.34.158:30000/RodnoeKino/index.m3u8
+#EXTINF:-1,Родное кино
+http://109.95.47.229:809/15/index.m3u8
+#EXTINF:-1,Україна
+http://78.26.128.52:6666
+#EXTINF:-1,ФУТБОЛ 1
+https://185-8-178-138.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1,ФУТБОЛ 2
+https://185-8-178-139.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Футбол
+http://stream.euroasia.lfstrm.tv/football/1/index.m3u8
+#EXTINF:-1,Футбол 1
+http://193.93.216.50:8000/play/Football1/index.m3u8
+#EXTINF:-1,Футбол 1
+http://188.35.9.103:8031/udp/174f
+#EXTINF:-1,Футбол 1 Укр
+http://181-215-15-224.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1,Футбол 2
+http://193.93.216.50:8000/play/Football2/index.m3u8
+#EXTINF:-1,Футбол 2 Укр
+http://95-213-174-218.livesports24.online/fooootball2.m3u8
+
